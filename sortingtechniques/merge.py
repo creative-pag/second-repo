@@ -23,6 +23,7 @@ def mergesort(alist):
             j+=1
             k+=1
         return alist
-marks = [1,8,5,13,75,16,20]
+marks = [1,8,5,13,75,16,20] 
 result = mergesort(marks)
 print(result)
+# merge sort --
